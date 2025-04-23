@@ -19,4 +19,4 @@ use App\Http\Controllers\Controller;
 //     return $request->user();
 // });
 
-Route::get('/test', [TodoController::class, 'test']);
+Route::post('/test', [TodoController::class, 'test']);
