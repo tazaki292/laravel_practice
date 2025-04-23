@@ -17,5 +17,3 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-# Mysql docker volume data
-docker/db/data/
